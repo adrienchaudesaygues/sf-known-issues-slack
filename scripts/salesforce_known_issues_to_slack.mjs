@@ -4,44 +4,48 @@ async function main() {
   const browser = await chromium.launch();
   const page = await browser.newPage();
 
-  await page.goto('https://help.salesforce.com/s/issues', { 
-    waitUntil: 'networkidle', 
-    timeout: 60000 
+  await page.goto('https://help.salesforce.com/s/issues', {
+    waitUntil: 'networkidle',
+    timeout: 60000
   });
-  
-  // Attendre plus longtemps que la SPA charge
+
   await page.waitForTimeout(10000);
 
   const result = await page.evaluate(() => {
-    // Dump tout le texte visible de la page pour voir ce qui est chargé
     const body = document.body.innerText;
-    
-    // Cherche tous les liens qui ressemblent à des issues
+
     const links = [...document.querySelectorAll('a[href*="issue"]')].slice(0, 5).map(a => ({
-      text: a.innerText?.trim(),
+      text: a.innerText ? a.innerText.trim() : '',
       href: a.href,
-      parentClass: a.parentElement?.className?.slice(0, 100),
-      parentHTML: a.parentElement?.outerHTML?.slice(0, 300),
+      parentClass: a.parentElement ? a.parentElement.className.slice(0, 100) : '',
+      parentHTML: a.parentElement ? a.parentElement.outerHTML.slice(0, 300) : '',
     }));
 
-    // Cherche les éléments avec du texte comme "Known" ou "Fixed"
-    const statusEls = [...document.querySelectorAll('*')].filter(el => 
-      el.children.length === 0 && 
-      ['Known', 'Fixed', 'In Progress', 'No Fix'].includes(el.innerText?.trim())
+    const statusEls = [...document.querySelectorAll('*')].filter(el =>
+      el.children.length === 0 &&
+      ['Known', 'Fixed', 'In Progress', 'No Fix'].includes(el.innerText ? el.innerText.trim() : '')
     ).slice(0, 5).map(el => ({
-      text: el.innerText?.trim(),
+      text: el.innerText ? el.innerText.trim() : '',
       tag: el.tagName,
-      className: el.className?.slice(0, 100),
-      parentHTML: el.parentElement?.outerHTML?.slice(0, 300),
+      className: el.className ? el.className.slice(0, 100) : '',
+      parentHTML: el.parentElement ? el.parentElement.outerHTML.slice(0, 300) : '',
     }));
 
-    return { 
+    return {
       bodyPreview: body.slice(0, 1000),
-      links,
-      statusEls
+      links: links,
+      statusEls: statusEls
     };
   });
 
   console.log('=== BODY TEXT ===');
   console.log(result.bodyPreview);
-  console.log('=== LINKS WITH ISSUE
+  console.log('=== LINKS WITH ISSUE ===');
+  console.log(JSON.stringify(result.links, null, 2));
+  console.log('=== STATUS ELEMENTS ===');
+  console.log(JSON.stringify(result.statusEls, null, 2));
+
+  await browser.close();
+}
+
+main().catch(function(e) { console.error(e); process.exit(1); });
