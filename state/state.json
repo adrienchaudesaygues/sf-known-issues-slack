@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "View Not Updating When Changing Parameter with Bridge Live Connection and User Filter in Tableau Cloud"
   },
+  "after-upgrading-tableau-server-to-version-2025-3-0-or-later-users-encounter-an-e": {
+    "status": "In Review",
+    "title": "After upgrading Tableau Server to version 2025.3.0 or later, users encounter an error when accessing workbooks connected to published data sources"
+  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
@@ -14,10 +18,6 @@
   "lead-conversion-failing-with-generic-errors": {
     "status": "In Review",
     "title": "Lead conversion failing with generic errors"
-  },
-  "after-upgrading-tableau-server-to-version-2025-3-0-or-later-users-encounter-an-e": {
-    "status": "In Review",
-    "title": "After upgrading Tableau Server to version 2025.3.0 or later, users encounter an error when accessing workbooks connected to published data sources"
   },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
