@@ -19,13 +19,13 @@
     "status": "In Review",
     "title": "After upgrading Tableau Server to version 2025.3.0 or later, users encounter an error when accessing workbooks connected to published data sources"
   },
-  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
-    "status": "In Review",
-    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
-  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
+  },
+  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
+    "status": "In Review",
+    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
   },
   "opportunity-contact-role-record-not-getting-selected-in-flow-debug": {
     "status": "In Review",
