@@ -1,1 +1,34 @@
-{}
+{
+  "dashboards-unexpectedly-display-as-a-blank-page-or-content-is-missing-after-upgr": {
+    "status": "Solution Deployed",
+    "title": "Dashboards Unexpectedly Display as a Blank Page or Content is Missing After Upgrading to Tableau Server 2025.1.3-4"
+  },
+  "view-not-updating-when-changing-parameter-with-bridge-live-connection-and-user-f": {
+    "status": "In Review",
+    "title": "View Not Updating When Changing Parameter with Bridge Live Connection and User Filter in Tableau Cloud"
+  },
+  "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
+    "status": "In Review",
+    "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
+  },
+  "lead-conversion-failing-with-generic-errors": {
+    "status": "In Review",
+    "title": "Lead conversion failing with generic errors"
+  },
+  "after-upgrading-tableau-server-to-version-2025-3-0-or-later-users-encounter-an-e": {
+    "status": "In Review",
+    "title": "After upgrading Tableau Server to version 2025.3.0 or later, users encounter an error when accessing workbooks connected to published data sources"
+  },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
+  },
+  "opportunity-contact-role-record-not-getting-selected-in-flow-debug": {
+    "status": "In Review",
+    "title": "Opportunity Contact Role record not getting selected in Flow debug"
+  },
+  "flow-error-emails-are-sent-even-when-using-fault-connectors": {
+    "status": "In Review",
+    "title": "Flow error emails are sent even when using fault connectors"
+  }
+}
