@@ -19,6 +19,10 @@
     "status": "In Review",
     "title": "Lead conversion failing with generic errors"
   },
+  "flow-error-emails-are-sent-even-when-using-fault-connectors": {
+    "status": "In Review",
+    "title": "Flow error emails are sent even when using fault connectors"
+  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
@@ -30,9 +34,5 @@
   "opportunity-contact-role-record-not-getting-selected-in-flow-debug": {
     "status": "In Review",
     "title": "Opportunity Contact Role record not getting selected in Flow debug"
-  },
-  "flow-error-emails-are-sent-even-when-using-fault-connectors": {
-    "status": "In Review",
-    "title": "Flow error emails are sent even when using fault connectors"
   }
 }
