@@ -70,7 +70,7 @@ async function scrapeIssues(page) {
   const STATUS_PATTERN = STATUSES.map(s => s.replace(/\s/g, '\\s+')).join('|');
 
   const blockRegex = new RegExp(
-    `(${STATUS_PATTERN})\\n([^\\n]+)\\n([^\\n]+(?:\\n[^\\n]+)?)\\nFound in Release[^\\n]*\\n[\\s\\S]*?Updated\\n([A-Z][a-z]{2}\\s+\\d{1,2},\\s+\\d{4})`,
+    '(' + STATUS_PATTERN + ')\\n([^\\n]+)\\n([^\\n]+(?:\\n[^\\n]+)?)\\nFound in Release[^\\n]*\\n[\\s\\S]*?Updated\\n([A-Z][a-z]{2}\\s+\\d{1,2},\\s+\\d{4})',
     'g'
   );
 
@@ -83,7 +83,7 @@ async function scrapeIssues(page) {
     const title = match[3].trim();
     const lastUpdated = match[4];
     const id = slugify(title);
-    const url = `https://help.salesforce.com/s/issues?q=${encodeURIComponent(title.slice(0, 50))}`;
+    const url = 'https://help.salesforce.com/s/issues?q=' + encodeURIComponent(title.slice(0, 50));
 
     if (!issues.find(i => i.id === id)) {
       issues.push({ id, title, product, status, lastUpdated, url });
@@ -100,7 +100,7 @@ async function main() {
   try {
     const state = loadState();
     const issues = await scrapeIssues(page);
-    console.log(`Found ${issues.length} issues`);
+    console.log('Found ' + issues.length + ' issues');
     if (issues.length > 0) console.log('Sample:', JSON.stringify(issues[0], null, 2));
 
     if (MODE === 'LIST_PRODUCTS') {
@@ -121,16 +121,16 @@ async function main() {
 
       if (!prev) {
         messages.push(
-          `🆕 *New issue* ${pEmoji}\n*${issue.title}*\nProduct: ${issue.product}\nStatus: ${sEmoji} ${issue.status} | Last updated: ${issue.lastUpdated}\n${issue.url}`
+          '🆕 *New issue* ' + pEmoji + '\n*' + issue.title + '*\nProduct: ' + issue.product + '\nStatus: ' + sEmoji + ' ' + issue.status + ' | Last updated: ' + issue.lastUpdated + '\n' + issue.url
         );
       } else if (prev.status !== issue.status) {
         messages.push(
-          `🔔 *Status change* ${pEmoji}\n*${issue.title}*\nProduct: ${issue.product}\n${statusEmoji(prev.status)} ${prev.status} → ${sEmoji} ${issue.status} | Last updated: ${issue.lastUpdated}\n${issue.url}`
+          '🔔 *Status change* ' + pEmoji + '\n*' + issue.title + '*\nProduct: ' + issue.product + '\n' + statusEmoji(prev.status) + ' ' + prev.status + ' → ' + sEmoji + ' ' + issue.status + ' | Last updated: ' + issue.lastUpdated + '\n' + issue.url
         );
       }
     }
 
-    console.log(`${messages.length} message(s) to send`);
+    console.log(messages.length + ' message(s) to send');
     for (const msg of messages) {
       await postToSlack(msg);
       await new Promise(r => setTimeout(r, 500));
@@ -145,23 +145,3 @@ async function main() {
 }
 
 main().catch(e => { console.error(e); process.exit(1); });
-```
-
----
-
-Commit → et c'est bon. Le prochain run automatique (dans les 30 min max) utilisera ce script. Les messages Slack auront maintenant ce format :
-```
-🆕 New issue 📊
-*Dashboards Unexpectedly Display...*
-Product: Tableau/Tableau Server
-Status: ✅ Solution Deployed | Last updated: Sep 03, 2025
-https://...
-```
-
-Et pour un changement de statut :
-```
-🔔 Status change 🎧
-*Cursor jumps or auto-scrolls...*
-Product: Service/Knowledge
-🔍 In Review → ✅ Solution Deployed | Last updated: Apr 01, 2026
-https://...
