@@ -19,13 +19,13 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
-  "flow-error-emails-are-sent-even-when-using-fault-connectors": {
-    "status": "In Review",
-    "title": "Flow error emails are sent even when using fault connectors"
-  },
   "lead-conversion-failing-with-generic-errors": {
     "status": "In Review",
     "title": "Lead conversion failing with generic errors"
+  },
+  "flow-error-emails-are-sent-even-when-using-fault-connectors": {
+    "status": "In Review",
+    "title": "Flow error emails are sent even when using fault connectors"
   },
   "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
     "status": "In Review",
