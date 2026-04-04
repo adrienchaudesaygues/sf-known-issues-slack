@@ -3,10 +3,6 @@
     "status": "Solution Deployed",
     "title": "Dashboards Unexpectedly Display as a Blank Page or Content is Missing After Upgrading to Tableau Server 2025.1.3-4"
   },
-  "view-not-updating-when-changing-parameter-with-bridge-live-connection-and-user-f": {
-    "status": "In Review",
-    "title": "View Not Updating When Changing Parameter with Bridge Live Connection and User Filter in Tableau Cloud"
-  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
