@@ -7,13 +7,13 @@
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
-  "after-upgrading-tableau-server-to-version-2025-3-0-or-later-users-encounter-an-e": {
-    "status": "In Review",
-    "title": "After upgrading Tableau Server to version 2025.3.0 or later, users encounter an error when accessing workbooks connected to published data sources"
-  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
+  },
+  "after-upgrading-tableau-server-to-version-2025-3-0-or-later-users-encounter-an-e": {
+    "status": "In Review",
+    "title": "After upgrading Tableau Server to version 2025.3.0 or later, users encounter an error when accessing workbooks connected to published data sources"
   },
   "lead-conversion-failing-with-generic-errors": {
     "status": "In Review",
