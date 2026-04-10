@@ -15,13 +15,13 @@
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
-  "opportunity-contact-role-record-not-getting-selected-in-flow-debug": {
-    "status": "In Review",
-    "title": "Opportunity Contact Role record not getting selected in Flow debug"
-  },
   "lead-conversion-failing-with-generic-errors": {
     "status": "In Review",
     "title": "Lead conversion failing with generic errors"
+  },
+  "opportunity-contact-role-record-not-getting-selected-in-flow-debug": {
+    "status": "In Review",
+    "title": "Opportunity Contact Role record not getting selected in Flow debug"
   },
   "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
     "status": "In Review",
