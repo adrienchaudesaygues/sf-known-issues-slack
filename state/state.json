@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "After upgrading Tableau Server to version 2025.3.0 or later, users encounter an error when accessing workbooks connected to published data sources"
   },
+  "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
+    "status": "In Review",
+    "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
+  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
@@ -14,10 +18,6 @@
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
-  },
-  "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
-    "status": "In Review",
-    "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
   "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
     "status": "In Review",
