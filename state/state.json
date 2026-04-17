@@ -7,10 +7,6 @@
     "status": "In Review",
     "title": "After upgrading Tableau Server to version 2025.3.0 or later, users encounter an error when accessing workbooks connected to published data sources"
   },
-  "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
-    "status": "In Review",
-    "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
@@ -18,6 +14,14 @@
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
+  },
+  "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
+    "status": "In Review",
+    "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
+  },
+  "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
+    "status": "In Review",
+    "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
   },
   "lead-conversion-failing-with-generic-errors": {
     "status": "In Review",
