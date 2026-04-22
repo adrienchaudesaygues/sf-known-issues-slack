@@ -30,9 +30,5 @@
   "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
-  },
-  "opportunity-contact-role-record-not-getting-selected-in-flow-debug": {
-    "status": "In Review",
-    "title": "Opportunity Contact Role record not getting selected in Flow debug"
   }
 }
