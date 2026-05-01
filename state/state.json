@@ -7,13 +7,13 @@
     "status": "In Review",
     "title": "After upgrading Tableau Server to version 2025.3.0 or later, users encounter an error when accessing workbooks connected to published data sources"
   },
-  "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
-    "status": "In Review",
-    "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
+  },
+  "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
+    "status": "In Review",
+    "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
   },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
