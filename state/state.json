@@ -11,13 +11,13 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
-  "opportunity-contact-role-record-not-getting-selected-in-flow-debug": {
-    "status": "In Review",
-    "title": "Opportunity Contact Role record not getting selected in Flow debug"
-  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
+  },
+  "opportunity-contact-role-record-not-getting-selected-in-flow-debug": {
+    "status": "In Review",
+    "title": "Opportunity Contact Role record not getting selected in Flow debug"
   },
   "lead-conversion-failing-with-generic-errors": {
     "status": "In Review",
