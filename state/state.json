@@ -27,8 +27,8 @@
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
   },
-  "lead-conversion-failing-with-generic-errors": {
+  "-accessibility-report-and-dashboard-chart-nvda-announces-hidden-element-and-virt": {
     "status": "In Review",
-    "title": "Lead conversion failing with generic errors"
+    "title": "[Accessibility][Report and Dashboard Chart] NVDA Announces Hidden Element and Virtual Cursor fails to follow the visible keyboard focus"
   }
 }
