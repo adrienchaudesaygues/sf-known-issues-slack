@@ -7,13 +7,13 @@
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
-  "the-sales-account-plans-feature-is-not-available-in-some-sales-cloud-licenses": {
-    "status": "In Review",
-    "title": "The Sales Account Plans feature is not available in some Sales Cloud licenses"
-  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
+  },
+  "the-sales-account-plans-feature-is-not-available-in-some-sales-cloud-licenses": {
+    "status": "In Review",
+    "title": "The Sales Account Plans feature is not available in some Sales Cloud licenses"
   },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
