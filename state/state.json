@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
+  "the-sales-account-plans-feature-is-not-available-in-some-sales-cloud-licenses": {
+    "status": "In Review",
+    "title": "The Sales Account Plans feature is not available in some Sales Cloud licenses"
+  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
@@ -26,9 +30,5 @@
   "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
-  },
-  "-accessibility-report-and-dashboard-chart-nvda-announces-hidden-element-and-virt": {
-    "status": "In Review",
-    "title": "[Accessibility][Report and Dashboard Chart] NVDA Announces Hidden Element and Virtual Cursor fails to follow the visible keyboard focus"
   }
 }
