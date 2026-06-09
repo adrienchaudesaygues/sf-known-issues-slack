@@ -11,13 +11,13 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
-  "the-sales-account-plans-feature-is-not-available-in-some-sales-cloud-licenses": {
-    "status": "In Review",
-    "title": "The Sales Account Plans feature is not available in some Sales Cloud licenses"
-  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
+  },
+  "the-sales-account-plans-feature-is-not-available-in-some-sales-cloud-licenses": {
+    "status": "In Review",
+    "title": "The Sales Account Plans feature is not available in some Sales Cloud licenses"
   },
   "opportunity-contact-role-record-not-getting-selected-in-flow-debug": {
     "status": "In Review",
