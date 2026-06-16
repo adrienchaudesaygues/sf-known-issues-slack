@@ -27,8 +27,8 @@
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
   },
-  "data-stream-deployment-fails-if-we-change-the-api-name-of-field-we-are-using-in-": {
+  "lead-conversion-failing-with-generic-errors": {
     "status": "In Review",
-    "title": "Data Stream deployment fails if we change the API name of field we are using in the EventDateTime field for the Engagement stream."
+    "title": "Lead conversion failing with generic errors"
   }
 }
