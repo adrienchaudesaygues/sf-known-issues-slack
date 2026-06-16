@@ -15,10 +15,6 @@
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
   },
-  "opportunity-contact-role-record-not-getting-selected-in-flow-debug": {
-    "status": "In Review",
-    "title": "Opportunity Contact Role record not getting selected in Flow debug"
-  },
   "the-sales-account-plans-feature-is-not-available-in-some-sales-cloud-licenses": {
     "status": "In Review",
     "title": "The Sales Account Plans feature is not available in some Sales Cloud licenses"
@@ -30,5 +26,9 @@
   "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
+  },
+  "lead-conversion-failing-with-generic-errors": {
+    "status": "In Review",
+    "title": "Lead conversion failing with generic errors"
   }
 }
