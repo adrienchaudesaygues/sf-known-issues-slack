@@ -19,16 +19,8 @@
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
   },
-  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
+  "exporting-searchlayouts-metadata-may-return-a-null-tag-": {
     "status": "In Review",
-    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
-  },
-  "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
-    "status": "In Review",
-    "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
-  },
-  "lead-conversion-failing-with-generic-errors": {
-    "status": "In Review",
-    "title": "Lead conversion failing with generic errors"
+    "title": "Exporting SearchLayouts metadata may return a null tag:"
   }
 }
