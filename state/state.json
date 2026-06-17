@@ -27,8 +27,8 @@
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
   },
-  "lead-conversion-failing-with-generic-errors": {
+  "when-viewing-agent-sessions-and-intents-under-optimization-the-input-and-output-": {
     "status": "In Review",
-    "title": "Lead conversion failing with generic errors"
+    "title": "When viewing Agent Sessions and Intents under Optimization , the Input and Output values are blank for Action call in the trace logs"
   }
 }
