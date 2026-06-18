@@ -11,13 +11,13 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
-  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
-    "status": "In Review",
-    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
-  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
+  },
+  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
+    "status": "In Review",
+    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
   },
   "the-sales-account-plans-feature-is-not-available-in-some-sales-cloud-licenses": {
     "status": "In Review",
@@ -26,5 +26,9 @@
   "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
+  },
+  "when-a-user-adds-a-product-through-the-quick-order-component-for-example-using-s": {
+    "status": "In Review",
+    "title": "When a user adds a product through the Quick Order component (for example, using SKU \"abcdef\"), that SKU also appears in the search suggestions as \"sk"
   }
 }
