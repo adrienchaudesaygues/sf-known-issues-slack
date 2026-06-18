@@ -26,9 +26,5 @@
   "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
-  },
-  "when-a-user-adds-a-product-through-the-quick-order-component-for-example-using-s": {
-    "status": "In Review",
-    "title": "When a user adds a product through the Quick Order component (for example, using SKU \"abcdef\"), that SKU also appears in the search suggestions as \"sk"
   }
 }
