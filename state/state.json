@@ -27,8 +27,8 @@
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
   },
-  "-upload-new-version-and-upload-files-button-are-unresponsive-on-documentchecklis": {
+  "lead-conversion-failing-with-generic-errors": {
     "status": "In Review",
-    "title": "\"Upload New Version\" and \"Upload Files\" Button are Unresponsive on DocumentChecklistItem Standalone Record Page"
+    "title": "Lead conversion failing with generic errors"
   }
 }
