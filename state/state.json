@@ -26,5 +26,9 @@
   "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
+  },
+  "loyalty-management-invalid-api-input-failure-with-blank-error-message-on-ootb-me": {
+    "status": "In Review",
+    "title": "Loyalty Management: INVALID_API_INPUT failure with blank error message on OOTB Member Enrolment API"
   }
 }
