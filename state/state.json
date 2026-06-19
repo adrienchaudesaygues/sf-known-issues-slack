@@ -26,9 +26,5 @@
   "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
-  },
-  "flexcard-omniscript-validation-error-displayed-on-select-element-despite-a-valid": {
-    "status": "In Review",
-    "title": "FlexCard & Omniscript | Validation Error Displayed on Select Element Despite a Valid Value Being Present in the JSON"
   }
 }
