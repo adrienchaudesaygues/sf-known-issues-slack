@@ -1,7 +1,15 @@
 {
-  "dashboards-unexpectedly-display-as-a-blank-page-or-content-is-missing-after-upgr": {
+  "users-intermittently-receiving-duplicate-email-subscriptions": {
+    "status": "In Review",
+    "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
+  },
+  "-object-object-displayed-in-typeahead-field-after-a-form-is-resumed": {
+    "status": "In Review",
+    "title": "[Object Object] displayed in typeahead field after a form is resumed"
+  },
+  "slas-generates-access-token-successfully-for-disabled-customer": {
     "status": "Solution Deployed",
-    "title": "Dashboards Unexpectedly Display as a Blank Page or Content is Missing After Upgrading to Tableau Server 2025.1.3-4"
+    "title": "SLAS generates Access token successfully for disabled customer"
   },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
@@ -22,13 +30,5 @@
   "the-sales-account-plans-feature-is-not-available-in-some-sales-cloud-licenses": {
     "status": "In Review",
     "title": "The Sales Account Plans feature is not available in some Sales Cloud licenses"
-  },
-  "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
-    "status": "In Review",
-    "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
-  },
-  "lead-conversion-failing-with-generic-errors": {
-    "status": "In Review",
-    "title": "Lead conversion failing with generic errors"
   }
 }
