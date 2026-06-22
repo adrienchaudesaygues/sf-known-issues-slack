@@ -3,6 +3,10 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
+  },
   "-object-object-displayed-in-typeahead-field-after-a-form-is-resumed": {
     "status": "In Review",
     "title": "[Object Object] displayed in typeahead field after a form is resumed"
@@ -14,10 +18,6 @@
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
-  },
-  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
-    "status": "In Review",
-    "title": "App Menu setup page fails to load in Lightning Experience"
   },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
