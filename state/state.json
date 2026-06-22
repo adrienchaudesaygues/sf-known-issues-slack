@@ -3,13 +3,13 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
-  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
-    "status": "In Review",
-    "title": "App Menu setup page fails to load in Lightning Experience"
-  },
   "-object-object-displayed-in-typeahead-field-after-a-form-is-resumed": {
     "status": "In Review",
     "title": "[Object Object] displayed in typeahead field after a form is resumed"
+  },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
   },
   "slas-generates-access-token-successfully-for-disabled-customer": {
     "status": "Solution Deployed",
