@@ -19,6 +19,10 @@
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
+  "lead-conversion-failing-with-generic-errors": {
+    "status": "In Review",
+    "title": "Lead conversion failing with generic errors"
+  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
