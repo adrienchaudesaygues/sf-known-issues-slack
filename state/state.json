@@ -19,13 +19,13 @@
     "status": "Solution Deployed",
     "title": "SLAS generates Access token successfully for disabled customer"
   },
-  "lead-conversion-failing-with-generic-errors": {
-    "status": "In Review",
-    "title": "Lead conversion failing with generic errors"
-  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
+  },
+  "lead-conversion-failing-with-generic-errors": {
+    "status": "In Review",
+    "title": "Lead conversion failing with generic errors"
   },
   "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
     "status": "In Review",
