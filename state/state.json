@@ -7,13 +7,13 @@
     "status": "In Review",
     "title": "[Object Object] displayed in typeahead field after a form is resumed"
   },
-  "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
-    "status": "In Review",
-    "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
-  },
   "slas-generates-access-token-successfully-for-disabled-customer": {
     "status": "Solution Deployed",
     "title": "SLAS generates Access token successfully for disabled customer"
+  },
+  "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
+    "status": "In Review",
+    "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
