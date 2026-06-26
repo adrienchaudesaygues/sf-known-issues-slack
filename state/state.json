@@ -3,6 +3,10 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
+  "details-only-export-in-report-for-csv-format-is-redirecting-to-classic-mode": {
+    "status": "In Review",
+    "title": "Details Only Export in Report for csv format is redirecting to classic mode"
+  },
   "-object-object-displayed-in-typeahead-field-after-a-form-is-resumed": {
     "status": "In Review",
     "title": "[Object Object] displayed in typeahead field after a form is resumed"
@@ -26,9 +30,5 @@
   "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
     "status": "In Review",
     "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
-  },
-  "lead-conversion-failing-with-generic-errors": {
-    "status": "In Review",
-    "title": "Lead conversion failing with generic errors"
   }
 }
