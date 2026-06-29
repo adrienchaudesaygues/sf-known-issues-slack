@@ -3,13 +3,13 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
-  "details-only-export-in-report-for-csv-format-is-redirecting-to-classic-mode": {
-    "status": "In Review",
-    "title": "Details Only Export in Report for csv format is redirecting to classic mode"
-  },
   "-step-up-authentication-for-report-when-exporting-to-details-only-is-selected-af": {
     "status": "In Review",
     "title": "\"step-up authentication for Report\" - When exporting to \"Details Only\" is selected, after authentication, the user is redirected to the Classic UI."
+  },
+  "details-only-export-in-report-for-csv-format-is-redirecting-to-classic-mode": {
+    "status": "In Review",
+    "title": "Details Only Export in Report for csv format is redirecting to classic mode"
   },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
