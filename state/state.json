@@ -7,13 +7,13 @@
     "status": "In Review",
     "title": "\"step-up authentication for Report\" - When exporting to \"Details Only\" is selected, after authentication, the user is redirected to the Classic UI."
   },
-  "details-only-export-in-report-for-csv-format-is-redirecting-to-classic-mode": {
-    "status": "In Review",
-    "title": "Details Only Export in Report for csv format is redirecting to classic mode"
-  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
+  },
+  "details-only-export-in-report-for-csv-format-is-redirecting-to-classic-mode": {
+    "status": "In Review",
+    "title": "Details Only Export in Report for csv format is redirecting to classic mode"
   },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
