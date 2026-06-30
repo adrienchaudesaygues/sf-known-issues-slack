@@ -15,13 +15,13 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
-  "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
-    "status": "In Review",
-    "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
-  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
+  },
+  "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
+    "status": "In Review",
+    "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
   },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
