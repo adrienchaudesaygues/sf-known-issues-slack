@@ -3,10 +3,6 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
-  "-step-up-authentication-for-report-when-exporting-to-details-only-is-selected-af": {
-    "status": "In Review",
-    "title": "\"step-up authentication for Report\" - When exporting to \"Details Only\" is selected, after authentication, the user is redirected to the Classic UI."
-  },
   "details-only-export-in-report-for-csv-format-is-redirecting-to-classic-mode": {
     "status": "In Review",
     "title": "Details Only Export in Report for csv format is redirecting to classic mode"
@@ -26,5 +22,9 @@
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
+  },
+  "lead-conversion-failing-with-generic-errors": {
+    "status": "In Review",
+    "title": "Lead conversion failing with generic errors"
   }
 }
