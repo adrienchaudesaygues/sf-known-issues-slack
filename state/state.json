@@ -11,6 +11,10 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
+  "the-encryption-job-fails-every-hour-on-tableau-server-2024-2-without-tableau-dat": {
+    "status": "In Review",
+    "title": "The encryption job fails every hour on Tableau Server 2024.2 without Tableau Data Management Add-on License"
+  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
@@ -22,9 +26,5 @@
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
-  "lead-conversion-failing-with-generic-errors": {
-    "status": "In Review",
-    "title": "Lead conversion failing with generic errors"
   }
 }
