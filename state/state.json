@@ -15,13 +15,13 @@
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
-  "the-encryption-job-fails-every-hour-on-tableau-server-2024-2-without-tableau-dat": {
-    "status": "In Review",
-    "title": "The encryption job fails every hour on Tableau Server 2024.2 without Tableau Data Management Add-on License"
-  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
+  },
+  "the-encryption-job-fails-every-hour-on-tableau-server-2024-2-without-tableau-dat": {
+    "status": "In Review",
+    "title": "The encryption job fails every hour on Tableau Server 2024.2 without Tableau Data Management Add-on License"
   },
   "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
     "status": "In Review",
