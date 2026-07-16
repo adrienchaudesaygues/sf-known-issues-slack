@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
+  "completed-voice-calls-stuck-in-queue-after-callers-end-the-calls-": {
+    "status": "In Review",
+    "title": "Completed Voice calls stuck in queue after callers end the calls."
+  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
@@ -30,9 +34,5 @@
   "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
     "status": "In Review",
     "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
-  },
-  "the-sales-account-plans-feature-is-not-available-in-some-sales-cloud-licenses": {
-    "status": "In Review",
-    "title": "The Sales Account Plans feature is not available in some Sales Cloud licenses"
   }
 }
