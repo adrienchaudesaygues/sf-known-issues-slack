@@ -30,5 +30,9 @@
   "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
     "status": "In Review",
     "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
+  },
+  "the-sales-account-plans-feature-is-not-available-in-some-sales-cloud-licenses": {
+    "status": "In Review",
+    "title": "The Sales Account Plans feature is not available in some Sales Cloud licenses"
   }
 }
