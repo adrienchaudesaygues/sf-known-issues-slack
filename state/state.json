@@ -3,13 +3,13 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
-  "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
-    "status": "In Review",
-    "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
-  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
+  },
+  "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
+    "status": "In Review",
+    "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
@@ -26,5 +26,9 @@
   "lead-conversion-failing-with-generic-errors": {
     "status": "In Review",
     "title": "Lead conversion failing with generic errors"
+  },
+  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
+    "status": "In Review",
+    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
   }
 }
