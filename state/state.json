@@ -23,8 +23,8 @@
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
   },
-  "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
+  "permitted-user-s-for-an-installed-connected-app-is-always-listed-as-all-users-ma": {
     "status": "In Review",
-    "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
+    "title": "Permitted user's for an installed connected app is always listed as \"All users may self-authorize\" on the Manage Connected Apps page"
   }
 }
