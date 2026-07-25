@@ -3,6 +3,10 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
+  "passkey-built-in-authenticator-physical-security-key-not-available-as-mfa-option": {
+    "status": "In Review",
+    "title": "Passkey (Built-In Authenticator / Physical Security Key) Not Available as MFA Option During Setup-Initiated Identity Verification"
+  },
   "-enable-as-partner-action-fails-with-an-internal-server-error-ise-when-the-user-": {
     "status": "In Review",
     "title": "\"Enable As Partner\" action fails with an Internal Server Error (ISE) when the user language is set to non-English"
