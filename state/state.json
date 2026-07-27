@@ -26,9 +26,5 @@
   "completed-voice-calls-stuck-in-queue-after-callers-end-the-calls-": {
     "status": "In Review",
     "title": "Completed Voice calls stuck in queue after callers end the calls."
-  },
-  "view-acceleration-jobs-continually-display-as-pending-or-canceled-on-the-tasks-p": {
-    "status": "In Review",
-    "title": "View Acceleration Jobs Continually Display as \"Pending\" or \"Canceled\" on The Tasks Page in Tableau Cloud (Hyperforce)"
   }
 }
