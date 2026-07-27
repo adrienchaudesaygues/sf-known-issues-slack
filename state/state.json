@@ -23,8 +23,8 @@
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
   },
-  "completed-voice-calls-stuck-in-queue-after-callers-end-the-calls-": {
+  "permitted-user-s-for-an-installed-connected-app-is-always-listed-as-all-users-ma": {
     "status": "In Review",
-    "title": "Completed Voice calls stuck in queue after callers end the calls."
+    "title": "Permitted user's for an installed connected app is always listed as \"All users may self-authorize\" on the Manage Connected Apps page"
   }
 }
