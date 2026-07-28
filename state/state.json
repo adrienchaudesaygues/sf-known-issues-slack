@@ -11,10 +11,6 @@
     "status": "In Review",
     "title": "\"Enable As Partner\" action fails with an Internal Server Error (ISE) when the user language is set to non-English"
   },
-  "completed-voice-calls-stuck-in-queue-after-callers-end-the-calls-": {
-    "status": "In Review",
-    "title": "Completed Voice calls stuck in queue after callers end the calls."
-  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
@@ -22,6 +18,10 @@
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
+  },
+  "completed-voice-calls-stuck-in-queue-after-callers-end-the-calls-": {
+    "status": "In Review",
+    "title": "Completed Voice calls stuck in queue after callers end the calls."
   },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
