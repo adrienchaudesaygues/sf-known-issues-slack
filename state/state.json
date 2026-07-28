@@ -11,6 +11,10 @@
     "status": "In Review",
     "title": "\"Enable As Partner\" action fails with an Internal Server Error (ISE) when the user language is set to non-English"
   },
+  "completed-voice-calls-stuck-in-queue-after-callers-end-the-calls-": {
+    "status": "In Review",
+    "title": "Completed Voice calls stuck in queue after callers end the calls."
+  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
@@ -22,9 +26,5 @@
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
-  "completed-voice-calls-stuck-in-queue-after-callers-end-the-calls-": {
-    "status": "In Review",
-    "title": "Completed Voice calls stuck in queue after callers end the calls."
   }
 }
