@@ -1,11 +1,11 @@
 {
-  "users-intermittently-receiving-duplicate-email-subscriptions": {
-    "status": "In Review",
-    "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
-  },
   "passkey-built-in-authenticator-physical-security-key-not-available-as-mfa-option": {
     "status": "In Review",
     "title": "Passkey (Built-In Authenticator / Physical Security Key) Not Available as MFA Option During Setup-Initiated Identity Verification"
+  },
+  "users-intermittently-receiving-duplicate-email-subscriptions": {
+    "status": "In Review",
+    "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
