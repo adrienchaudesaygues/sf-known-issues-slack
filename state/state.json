@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
+  },
   "first-report-export-after-step-up-auth-ignores-url-filter-overrides-and-uses-sav": {
     "status": "In Review",
     "title": "First report export after step-up auth ignores URL filter overrides and uses saved report filters"
@@ -18,10 +22,6 @@
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
-  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
-    "status": "In Review",
-    "title": "App Menu setup page fails to load in Lightning Experience"
   },
   "-enable-as-partner-action-fails-with-an-internal-server-error-ise-when-the-user-": {
     "status": "In Review",
