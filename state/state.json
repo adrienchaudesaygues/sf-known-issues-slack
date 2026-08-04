@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
+  "-enable-as-partner-action-fails-with-an-internal-server-error-ise-when-the-user-": {
+    "status": "In Review",
+    "title": "\"Enable As Partner\" action fails with an Internal Server Error (ISE) when the user language is set to non-English"
+  },
   "first-report-export-after-step-up-auth-ignores-url-filter-overrides-and-uses-sav": {
     "status": "In Review",
     "title": "First report export after step-up auth ignores URL filter overrides and uses saved report filters"
@@ -14,10 +18,6 @@
   "prep-flows-fail-with-sqlstate-08006-error-when-concurrent-flows-share-same-sourc": {
     "status": "In Review",
     "title": "Prep flows fail with SQLSTATE:08006 error when concurrent flows share same source file"
-  },
-  "-enable-as-partner-action-fails-with-an-internal-server-error-ise-when-the-user-": {
-    "status": "In Review",
-    "title": "\"Enable As Partner\" action fails with an Internal Server Error (ISE) when the user language is set to non-English"
   },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
