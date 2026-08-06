@@ -15,13 +15,13 @@
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
-  "prep-flows-fail-with-sqlstate-08006-error-when-concurrent-flows-share-same-sourc": {
-    "status": "In Review",
-    "title": "Prep flows fail with SQLSTATE:08006 error when concurrent flows share same source file"
-  },
   "-enable-as-partner-action-fails-with-an-internal-server-error-ise-when-the-user-": {
     "status": "In Review",
     "title": "\"Enable As Partner\" action fails with an Internal Server Error (ISE) when the user language is set to non-English"
+  },
+  "prep-flows-fail-with-sqlstate-08006-error-when-concurrent-flows-share-same-sourc": {
+    "status": "In Review",
+    "title": "Prep flows fail with SQLSTATE:08006 error when concurrent flows share same source file"
   },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
