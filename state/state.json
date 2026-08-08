@@ -11,10 +11,6 @@
     "status": "In Review",
     "title": "First report export after step-up auth ignores URL filter overrides and uses saved report filters"
   },
-  "prep-flows-fail-with-sqlstate-08006-error-when-concurrent-flows-share-same-sourc": {
-    "status": "In Review",
-    "title": "Prep flows fail with SQLSTATE:08006 error when concurrent flows share same source file"
-  },
   "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
