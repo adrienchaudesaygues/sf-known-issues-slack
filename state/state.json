@@ -15,16 +15,12 @@
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
+  "prep-flows-fail-with-sqlstate-08006-error-when-concurrent-flows-share-same-sourc": {
+    "status": "In Review",
+    "title": "Prep flows fail with SQLSTATE:08006 error when concurrent flows share same source file"
+  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
-  },
-  "completed-voice-calls-stuck-in-queue-after-callers-end-the-calls-": {
-    "status": "In Review",
-    "title": "Completed Voice calls stuck in queue after callers end the calls."
-  },
-  "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
-    "status": "In Review",
-    "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   }
 }
