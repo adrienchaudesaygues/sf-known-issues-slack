@@ -11,13 +11,13 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
-  "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
-    "status": "In Review",
-    "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
-  },
   "messaging-session-is-incorrectly-routed-to-another-agent-while-already-assigned": {
     "status": "In Review",
     "title": "Messaging Session Is Incorrectly Routed to Another Agent While Already Assigned"
+  },
+  "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
+    "status": "In Review",
+    "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
