@@ -3,13 +3,13 @@
     "status": "In Review",
     "title": "Passkey (Built-In Authenticator / Physical Security Key) Not Available as MFA Option During Setup-Initiated Identity Verification"
   },
-  "users-intermittently-receiving-duplicate-email-subscriptions": {
-    "status": "In Review",
-    "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
-  },
   "first-report-export-after-step-up-auth-ignores-url-filter-overrides-and-uses-sav": {
     "status": "In Review",
     "title": "First report export after step-up auth ignores URL filter overrides and uses saved report filters"
+  },
+  "users-intermittently-receiving-duplicate-email-subscriptions": {
+    "status": "In Review",
+    "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
   "-enable-as-partner-action-fails-with-an-internal-server-error-ise-when-the-user-": {
     "status": "In Review",
