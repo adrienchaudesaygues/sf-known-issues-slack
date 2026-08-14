@@ -11,13 +11,13 @@
     "status": "In Review",
     "title": "Users Intermittently Receiving Duplicate Email Subscriptions"
   },
-  "-enable-as-partner-action-fails-with-an-internal-server-error-ise-when-the-user-": {
-    "status": "In Review",
-    "title": "\"Enable As Partner\" action fails with an Internal Server Error (ISE) when the user language is set to non-English"
-  },
   "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
+  },
+  "-enable-as-partner-action-fails-with-an-internal-server-error-ise-when-the-user-": {
+    "status": "In Review",
+    "title": "\"Enable As Partner\" action fails with an Internal Server Error (ISE) when the user language is set to non-English"
   },
   "messaging-session-is-incorrectly-routed-to-another-agent-while-already-assigned": {
     "status": "In Review",
