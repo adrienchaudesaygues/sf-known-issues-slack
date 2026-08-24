@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "First report export after step-up auth ignores URL filter overrides and uses saved report filters"
   },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
+  },
   "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
@@ -14,9 +18,5 @@
   "while-log-in-getting-internal-server-error-1239726991": {
     "status": "In Review",
     "title": "While log in getting Internal server error -1239726991"
-  },
-  "-enable-as-partner-action-fails-with-an-internal-server-error-ise-when-the-user-": {
-    "status": "In Review",
-    "title": "\"Enable As Partner\" action fails with an Internal Server Error (ISE) when the user language is set to non-English"
   }
 }
