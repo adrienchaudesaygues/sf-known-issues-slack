@@ -7,13 +7,13 @@
     "status": "In Review",
     "title": "First report export after step-up auth ignores URL filter overrides and uses saved report filters"
   },
-  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
-    "status": "In Review",
-    "title": "App Menu setup page fails to load in Lightning Experience"
-  },
   "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
+  },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
   },
   "while-log-in-getting-internal-server-error-1239726991": {
     "status": "In Review",
