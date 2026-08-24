@@ -11,6 +11,10 @@
     "status": "In Review",
     "title": "First report export after step-up auth ignores URL filter overrides and uses saved report filters"
   },
+  "while-log-in-getting-internal-server-error-1239726991": {
+    "status": "In Review",
+    "title": "While log in getting Internal server error -1239726991"
+  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
