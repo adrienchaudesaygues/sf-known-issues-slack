@@ -3,16 +3,24 @@
     "status": "In Review",
     "title": "Passkey (Built-In Authenticator / Physical Security Key) Not Available as MFA Option During Setup-Initiated Identity Verification"
   },
-  "first-report-export-after-step-up-auth-ignores-url-filter-overrides-and-uses-sav": {
-    "status": "In Review",
-    "title": "First report export after step-up auth ignores URL filter overrides and uses saved report filters"
-  },
   "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
-  "while-log-in-getting-internal-server-error-1239726991": {
+  "messaging-session-is-incorrectly-routed-to-another-agent-while-already-assigned": {
     "status": "In Review",
-    "title": "While log in getting Internal server error -1239726991"
+    "title": "Messaging Session Is Incorrectly Routed to Another Agent While Already Assigned"
+  },
+  "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
+    "status": "In Review",
+    "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
+  },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
+  },
+  "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
+    "status": "In Review",
+    "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   }
 }
