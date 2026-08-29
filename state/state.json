@@ -3,6 +3,10 @@
     "status": "In Review",
     "title": "Passkey (Built-In Authenticator / Physical Security Key) Not Available as MFA Option During Setup-Initiated Identity Verification"
   },
+  "users-are-not-able-to-change-and-verify-their-emails-in-all-orgs-after-summer-26": {
+    "status": "Solution Deployed",
+    "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
+  },
   "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
