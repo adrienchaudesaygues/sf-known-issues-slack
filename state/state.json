@@ -15,10 +15,6 @@
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
-  "messaging-session-is-incorrectly-routed-to-another-agent-while-already-assigned": {
-    "status": "In Review",
-    "title": "Messaging Session Is Incorrectly Routed to Another Agent While Already Assigned"
-  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
