@@ -3,21 +3,21 @@
     "status": "In Review",
     "title": "Passkey (Built-In Authenticator / Physical Security Key) Not Available as MFA Option During Setup-Initiated Identity Verification"
   },
-  "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
-    "status": "In Review",
-    "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
-  },
   "users-are-not-able-to-change-and-verify-their-emails-in-all-orgs-after-summer-26": {
     "status": "Solution Deployed",
     "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
   },
-  "lightning-web-security-lws-breaks-range-api-methods-on-chrome-152": {
+  "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
     "status": "In Review",
-    "title": "Lightning Web Security (LWS) breaks Range API methods on Chrome 152"
+    "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
   "developer-console-web-console-missing-in-winter-27-govcloud-preview-sandboxes": {
     "status": "In Review",
     "title": "Developer Console/Web Console Missing in Winter '27 GovCloud Preview Sandboxes"
+  },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
   },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
