@@ -19,12 +19,12 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
-  "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
-    "status": "In Review",
-    "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
   "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
     "status": "In Review",
     "title": "Search functionality in Approval process of Initial Submitters is not working in lightning, it is working on Classic."
+  },
+  "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
+    "status": "In Review",
+    "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
   }
 }
