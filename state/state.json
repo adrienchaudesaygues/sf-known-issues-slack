@@ -19,6 +19,10 @@
     "status": "Solution Deployed",
     "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
   },
+  "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
+    "status": "In Review",
+    "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
+  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
@@ -26,9 +30,5 @@
   "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
     "status": "In Review",
     "title": "Search functionality in Approval process of Initial Submitters is not working in lightning, it is working on Classic."
-  },
-  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
-    "status": "In Review",
-    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
   }
 }
