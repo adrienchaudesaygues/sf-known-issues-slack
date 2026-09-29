@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
+  "users-are-not-able-to-change-and-verify-their-emails-in-all-orgs-after-summer-26": {
+    "status": "Solution Deployed",
+    "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
+  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
@@ -15,17 +19,13 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
-  "users-are-not-able-to-change-and-verify-their-emails-in-all-orgs-after-summer-26": {
-    "status": "Solution Deployed",
-    "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
+  "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
+    "status": "In Review",
+    "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
   },
   "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
     "status": "In Review",
     "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
-  },
-  "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
-    "status": "In Review",
-    "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
   },
   "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
     "status": "In Review",
