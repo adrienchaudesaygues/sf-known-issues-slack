@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
+  },
   "users-are-not-able-to-change-and-verify-their-emails-in-all-orgs-after-summer-26": {
     "status": "Solution Deployed",
     "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
@@ -14,10 +18,6 @@
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
-  },
-  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
-    "status": "In Review",
-    "title": "App Menu setup page fails to load in Lightning Experience"
   },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
