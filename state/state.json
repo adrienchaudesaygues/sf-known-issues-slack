@@ -11,13 +11,13 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
-  "error-on-opening-update-records-element-which-is-configured-on-custom-object-wit": {
-    "status": "In Review",
-    "title": "Error on opening Update Records element which is configured on Custom Object with Lookup relationship to Standard Object"
-  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
+  },
+  "error-on-opening-update-records-element-which-is-configured-on-custom-object-wit": {
+    "status": "In Review",
+    "title": "Error on opening Update Records element which is configured on Custom Object with Lookup relationship to Standard Object"
   },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
