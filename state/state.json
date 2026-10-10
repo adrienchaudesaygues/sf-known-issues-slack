@@ -26,5 +26,9 @@
   "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
     "status": "In Review",
     "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
+  },
+  "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
+    "status": "In Review",
+    "title": "Search functionality in Approval process of Initial Submitters is not working in lightning, it is working on Classic."
   }
 }
