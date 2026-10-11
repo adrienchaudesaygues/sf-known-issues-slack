@@ -19,10 +19,6 @@
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
   },
-  "error-on-opening-update-records-element-which-is-configured-on-custom-object-wit": {
-    "status": "In Review",
-    "title": "Error on opening Update Records element which is configured on Custom Object with Lookup relationship to Standard Object"
-  },
   "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
     "status": "In Review",
     "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
@@ -30,5 +26,9 @@
   "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
     "status": "In Review",
     "title": "Search functionality in Approval process of Initial Submitters is not working in lightning, it is working on Classic."
+  },
+  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
+    "status": "In Review",
+    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
   }
 }
