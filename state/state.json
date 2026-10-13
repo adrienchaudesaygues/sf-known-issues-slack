@@ -11,24 +11,24 @@
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
   },
-  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
-    "status": "In Review",
-    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
-  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
+  },
+  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
+    "status": "In Review",
+    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
   },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
   },
+  "permitted-user-s-for-an-installed-connected-app-is-always-listed-as-all-users-ma": {
+    "status": "In Review",
+    "title": "Permitted user's for an installed connected app is always listed as \"All users may self-authorize\" on the Manage Connected Apps page"
+  },
   "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
     "status": "In Review",
     "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
-  },
-  "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
-    "status": "In Review",
-    "title": "Search functionality in Approval process of Initial Submitters is not working in lightning, it is working on Classic."
   }
 }
