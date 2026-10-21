@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
+  "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
+    "status": "In Review",
+    "title": "Search functionality in Approval process of Initial Submitters is not working in lightning, it is working on Classic."
+  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
@@ -14,10 +18,6 @@
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
-  },
-  "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
-    "status": "In Review",
-    "title": "Search functionality in Approval process of Initial Submitters is not working in lightning, it is working on Classic."
   },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
