@@ -7,13 +7,13 @@
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
-  "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
-    "status": "In Review",
-    "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
-  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
+  },
+  "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
+    "status": "In Review",
+    "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
   },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
