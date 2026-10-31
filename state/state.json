@@ -7,6 +7,10 @@
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
+  "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
+    "status": "In Review",
+    "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
+  },
   "app-menu-setup-page-fails-to-load-in-lightning-experience": {
     "status": "In Review",
     "title": "App Menu setup page fails to load in Lightning Experience"
@@ -18,10 +22,6 @@
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
-  "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
-    "status": "In Review",
-    "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
   },
   "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
     "status": "In Review",
