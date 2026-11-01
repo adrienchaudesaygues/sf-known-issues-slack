@@ -15,13 +15,13 @@
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
-  "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
-    "status": "In Review",
-    "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
-  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
+  },
+  "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
+    "status": "In Review",
+    "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
   },
   "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
     "status": "In Review",
