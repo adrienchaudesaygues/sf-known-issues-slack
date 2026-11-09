@@ -1,11 +1,11 @@
 {
-  "passkey-built-in-authenticator-physical-security-key-not-available-as-mfa-option": {
-    "status": "In Review",
-    "title": "Passkey (Built-In Authenticator / Physical Security Key) Not Available as MFA Option During Setup-Initiated Identity Verification"
-  },
   "users-are-not-able-to-change-and-verify-their-emails-in-all-orgs-after-summer-26": {
     "status": "Solution Deployed",
     "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
+  },
+  "passkey-built-in-authenticator-physical-security-key-not-available-as-mfa-option": {
+    "status": "In Review",
+    "title": "Passkey (Built-In Authenticator / Physical Security Key) Not Available as MFA Option During Setup-Initiated Identity Verification"
   },
   "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
     "status": "In Review",
@@ -14,6 +14,10 @@
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
+  },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
   },
   "after-sandbox-refresh-email-addresses-with-invalid-show-verified-status-for-user": {
     "status": "In Review",
@@ -26,9 +30,5 @@
   "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
     "status": "In Review",
     "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
-  },
-  "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
-    "status": "In Review",
-    "title": "Search functionality in Approval process of Initial Submitters is not working in lightning, it is working on Classic."
   }
 }
