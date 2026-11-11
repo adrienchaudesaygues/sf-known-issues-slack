@@ -15,6 +15,10 @@
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
+  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
+    "status": "In Review",
+    "title": "App Menu setup page fails to load in Lightning Experience"
+  },
   "after-sandbox-refresh-email-addresses-with-invalid-show-verified-status-for-user": {
     "status": "In Review",
     "title": "After sandbox refresh, email addresses with .invalid show Verified status for Users"
@@ -22,10 +26,6 @@
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
-  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
-    "status": "In Review",
-    "title": "App Menu setup page fails to load in Lightning Experience"
   },
   "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
     "status": "In Review",
