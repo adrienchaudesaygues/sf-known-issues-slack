@@ -11,13 +11,13 @@
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
-  "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
-    "status": "In Review",
-    "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
-  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
+  },
+  "receiving-error-while-trying-to-access-the-lightning-record-page-the-flexipage-y": {
+    "status": "In Review",
+    "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
   },
   "after-sandbox-refresh-email-addresses-with-invalid-show-verified-status-for-user": {
     "status": "In Review",
