@@ -1,7 +1,15 @@
 {
+  "unable-to-deploy-lead-duplicate-rule-when-a-conditional-filter-field-s-api-name-": {
+    "status": "In Review",
+    "title": "Unable to deploy Lead Duplicate Rule when a conditional filter field's API name also exists on another object (e.g., Contact)"
+  },
   "users-are-not-able-to-change-and-verify-their-emails-in-all-orgs-after-summer-26": {
     "status": "Solution Deployed",
     "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
+  },
+  "edit-connection-add-salesforce-account-omits-instanceurl-multi-oauth-client-ds-r": {
+    "status": "In Review",
+    "title": "Edit Connection > Add Salesforce Account Omits InstanceURL; Multi-OAuth-client DS Routes To Wrong Org"
   },
   "passkey-built-in-authenticator-physical-security-key-not-available-as-mfa-option": {
     "status": "In Review",
@@ -19,16 +27,8 @@
     "status": "In Review",
     "title": "Receiving error while trying to access the lightning record page:- \"The FlexiPage you're trying to access doesn't exist\"."
   },
-  "after-sandbox-refresh-email-addresses-with-invalid-show-verified-status-for-user": {
-    "status": "In Review",
-    "title": "After sandbox refresh, email addresses with .invalid show Verified status for Users"
-  },
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
-  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
-    "status": "In Review",
-    "title": "App Menu setup page fails to load in Lightning Experience"
   }
 }
