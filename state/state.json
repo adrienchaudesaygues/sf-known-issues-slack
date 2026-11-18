@@ -3,13 +3,13 @@
     "status": "In Review",
     "title": "Unable to deploy Lead Duplicate Rule when a conditional filter field's API name also exists on another object (e.g., Contact)"
   },
-  "edit-connection-add-salesforce-account-omits-instanceurl-multi-oauth-client-ds-r": {
-    "status": "In Review",
-    "title": "Edit Connection > Add Salesforce Account Omits InstanceURL; Multi-OAuth-client DS Routes To Wrong Org"
-  },
   "users-are-not-able-to-change-and-verify-their-emails-in-all-orgs-after-summer-26": {
     "status": "Solution Deployed",
     "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
+  },
+  "edit-connection-add-salesforce-account-omits-instanceurl-multi-oauth-client-ds-r": {
+    "status": "In Review",
+    "title": "Edit Connection > Add Salesforce Account Omits InstanceURL; Multi-OAuth-client DS Routes To Wrong Org"
   },
   "passkey-built-in-authenticator-physical-security-key-not-available-as-mfa-option": {
     "status": "In Review",
