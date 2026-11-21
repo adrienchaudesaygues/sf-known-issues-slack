@@ -15,6 +15,10 @@
     "status": "In Review",
     "title": "Lightning Report Export Skips Unsaved Modifications in Some Orgs"
   },
+  "document-generated-without-token-mappings-when-using-the-ootb-create-contract-do": {
+    "status": "In Review",
+    "title": "Document Generated Without Token Mappings When Using the OOTB \"Create Contract Document\" Button."
+  },
   "cursor-jumps-or-auto-scrolls-when-hovering-over-records-in-related-lists-or-comp": {
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
@@ -26,9 +30,5 @@
   "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
     "status": "In Review",
     "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
-  "search-functionality-in-approval-process-of-initial-submitters-is-not-working-in": {
-    "status": "In Review",
-    "title": "Search functionality in Approval process of Initial Submitters is not working in lightning, it is working on Classic."
   }
 }
