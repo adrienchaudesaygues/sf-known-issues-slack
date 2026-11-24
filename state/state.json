@@ -3,13 +3,13 @@
     "status": "In Review",
     "title": "Unable to deploy Lead Duplicate Rule when a conditional filter field's API name also exists on another object (e.g., Contact)"
   },
-  "users-are-not-able-to-change-and-verify-their-emails-in-all-orgs-after-summer-26": {
-    "status": "Solution Deployed",
-    "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
-  },
   "passkey-built-in-authenticator-physical-security-key-not-available-as-mfa-option": {
     "status": "In Review",
     "title": "Passkey (Built-In Authenticator / Physical Security Key) Not Available as MFA Option During Setup-Initiated Identity Verification"
+  },
+  "users-are-not-able-to-change-and-verify-their-emails-in-all-orgs-after-summer-26": {
+    "status": "Solution Deployed",
+    "title": "Users are not able to change and verify their emails in all Orgs after Summer 26 release"
   },
   "lightning-report-export-skips-unsaved-modifications-in-some-orgs": {
     "status": "In Review",
@@ -23,12 +23,8 @@
     "status": "In Review",
     "title": "Cursor jumps or auto-scrolls when hovering over records in related lists or components"
   },
-  "incorrect-sorting-of-macron-characters-in-new-zealand-locales": {
+  "after-spring-25-release-when-an-opportunity-closed-stage-has-dependent-fields-it": {
     "status": "In Review",
-    "title": "Incorrect Sorting of Macron Characters in New Zealand Locales"
-  },
-  "app-menu-setup-page-fails-to-load-in-lightning-experience": {
-    "status": "In Review",
-    "title": "App Menu setup page fails to load in Lightning Experience"
+    "title": "After Spring '25 release, when an Opportunity Closed Stage has dependent fields, it requires an additional step to close an Opportunity"
   }
 }
